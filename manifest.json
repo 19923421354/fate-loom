@@ -1,0 +1,18 @@
+{
+  "name": "命运织机 · AI聊天",
+  "short_name": "命运织机",
+  "description": "沉浸式AI故事叙述客户端，支持自定义API接入",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f0f0f",
+  "theme_color": "#0f0f0f",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧵</text></svg>",
+      "sizes": "100x100",
+      "type": "image/svg+xml"
+    }
+  ],
+  "lang": "zh-CN"
+}

@@ -1,0 +1,18 @@
+# Build artifacts
+*.apk
+build/
+compiled*/
+obj/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Keystore (never commit!)
+*.keystore
+*.jks

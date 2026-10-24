@@ -1,7 +1,7 @@
 {
   "name": "命运织机 · AI聊天",
   "short_name": "命运织机",
-  "description": "沉浸式AI故事叙述客户端，支持自定义API接入",
+  "description": "沉浸式AI故事叙述客户端，支持自定义API接入 · v5 增强台（主题/导出/搜索/指令）",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0f0f0f",
@@ -14,5 +14,6 @@
       "type": "image/svg+xml"
     }
   ],
-  "lang": "zh-CN"
+  "lang": "zh-CN",
+  "version": "5.0.0"
 }
